@@ -35,9 +35,3 @@ Contributions are welcome! Here's how you can contribute:
 - Reporting bugs.
 - Suggesting enhancements.
 - Submitting pull requests with bug fixes or new features.
-
-Please refer to CONTRIBUTING.md (if available) for guidelines on contributions.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
